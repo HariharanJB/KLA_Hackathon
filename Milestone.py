@@ -1,3 +1,4 @@
+
 from math import *
 import numpy as np
 f = open("/content/Testcase1.txt",'r')
